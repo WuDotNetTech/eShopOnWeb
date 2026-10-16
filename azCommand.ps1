@@ -1,7 +1,7 @@
 az login
 
 az group create --name "rg-eshoponweb-region1" --location "eastus"
-az group create --name "rg-eshoponweb-region3" --location "centralus"
+az group create --name "rg-eshoponweb-region2" --location "centralus"
 
 $REGION1="eastus"
 $REGION2="centralus"
